@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>Spiderman WEB-site ! </title>
+<style>
+body  {background:linear-gradient(red,blue);}
+h1  {font-family:kristen itc;
+     font-size:40pt;
+	 padding-left:350px;
+	 color:blue;}
+h4  {font-family:arial;
+     font-size:20pt;
+	 padding-left:390px;
+	 color:black;}
+img  {border-radius:25px;}
+     
+	 #hello img {height:525px;}
+	 #hello p {font-family:times new roman;
+     font-size:30pt;
+	 color:orange;
+	 border:10px;
+	 border-color:green;
+	 border-style:dotted;}
+      
+</style>
+</head>
+<body>
+<h1><b><i>The Spiderman WEB-site !<i></b></h1>
+<a href=Index.html><img src=hello.jpg height="100px"></a>
+<a href=quotes2.html><img src=https://previews.123rf.com/images/enterline/enterline1612/enterline161200137/66553117-the-word-quotes-written-in-white-3d-letters-on-a-colorful-background-concept-and-theme-.jpg height="100px" width="150px"></a>
+<a href=movies2.html><img src=hi.jpg height="100px" width="200px"></a>
+<a href=coool.html><img src=https://www.canadawatertheatre.org.uk/imagelarge/5a8f0044c0e15.jpeg height="100px"width="200px"></a>
+<a href=Characters2.html><img src=https://rollhighordie.com/wp-content/uploads/2017/10/Ep1.jpg height="100px"width="200px"></a>
+<a href=Gallery2.html><img src=https://thumbs.dreamstime.com/b/gallery-word-blackboard-white-chalk-vintage-isolated-white-39756031.jpg height="100px"width="200px"></a>
+<a href=Author2.html><img src=https://logos.flamingtext.com/Word-Logos/author-design-china-name.png height="100px"width="200px"></a>
+<hr>
+<img src="https://terrigen-cdn-dev.marvel.com/content/prod/1x/into-the-spider-verse-peter-b-parker-poster.jpg"height="900px">
+<a href=https://www.youtube.com/watch?v=dQw4w9WgXcQ><img src="https://pnimg.net/w/articles/0/572/a8cd1208ff.png"height="100px"width="200px"></a>
+<div id="hello">
+<img src=https://cdnb.artstation.com/p/assets/images/images/031/230/355/large/harshvardhan-rajpurohit-spidey-ffh.jpg?1603016051>
+<p><b>
+A hero is not someone with tights or a cool outfit. They are not people who have superpowers (although they could help) heroes are people who inspire others. They give up everything, even if it means that they live in a dilapidated old shack. They give up everything so that they can help people even if it means that they have to sacrifice their own body for someone they don’t even know. In my paper I will be talking about my hero, Spiderman, what a hero means to me, and all of the types of heroes there are.
+
+My hero is one of the world’s favorite superheroes, Spiderman. As you may know Spiderman has superpowers, what you may not know is how he got them. When Peter Parker got his superpowers he was on a field trip with his class. While there he was bitten by a radioactive spider. Spiderman has battled a lot of different bad guys but he fought them for the same reason: to save innocent people's lives. This inspired a lot of people and gave them hope.
+
+There are all types of heroes. All heroes are different, but they do share one thing in common, they want to help the innocent. Spiderman has superpowers and a cool costume and so does a lot of other heroes, but the strongest and most powerful heroes are the ones in your everyday life. Every hero does not have to have superpowers to save someone, they could just stand up for you when you are being bullied, or they could just help you do your homework when you don’t understand.
+
+A hero is someone who does not care what people think of him, but what he does for the people. Not all heroes have to be able to do something amazing but they all do the same thing, they help people. They don’t have to look like someone out of a Marvel comic book; a hero could be the person on the other side of the hall. Both of these heroes help people everyday whether or not it is saving you from a mad scientist, or just saving you from getting yelled at by your science teacher. A hero helps someone no matter what he cost is, that is why I chose Spiderman as my hero.
+</b></p>
+</div>
+</body>
+</html>
+   
